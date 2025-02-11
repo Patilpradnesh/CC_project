@@ -1,5 +1,3 @@
 num=int(input("Enter the number for "))
-    if num % 2 ==0 :
-        print("number is even")
-    else:
-        print("number is odd")
+a=num+1
+print("add one output is",a)
